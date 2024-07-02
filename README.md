@@ -2,9 +2,13 @@
 Learning SwiftUI with Dua Lipa's Blog - Service95
 # ContactView SwiftUI Project
 
+
+
 This SwiftUI project showcases a `ContactView` with a rotating, color-changing sphere, and contact information for Service95.
 
 ## Project Structure
+![Uploading Screenshot 2024-07-02 at 6.22.07 PM.png…]()
+
 
 The project consists of the following main components:
 
